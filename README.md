@@ -4,8 +4,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Focado em **Back-end com C# e .NET**
-- ☁ Explorando **Cloud com Azure**
-- 🌎 Aprendendo e evoluindo no **inglês** — passo a passo 😉
+- 🌎 Aprendendo e evoluindo no **inglês** 
 
 ## ⚔ Tecnologias
 

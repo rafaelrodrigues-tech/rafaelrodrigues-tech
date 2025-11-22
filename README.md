@@ -27,5 +27,5 @@
 ## 🌐 Meu perfil no Beecrowd (URI)
 
 Quer acompanhar meus desafios, evolução ou até me adicionar por lá?  
-![Visite meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1195812)
+[Visite meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1195812)
 

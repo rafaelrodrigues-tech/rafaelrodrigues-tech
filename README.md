@@ -24,3 +24,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelrodrigues-tech/)
 
+## 🌐 Meu perfil no Beecrowd (URI)
+
+Quer acompanhar meus desafios, evolução ou até me adicionar por lá?  
+👉 [Acesse meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1195812)
+

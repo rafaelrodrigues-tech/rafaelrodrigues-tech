@@ -13,7 +13,8 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelrodrigues-tech&theme=blueberry&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rafaelrodrigues-tech&theme=blueberry&hide_border=false&short_numbers=false)](https://git.io/streak-stats)
+
 
 ## 🛠 Ferramentas
 

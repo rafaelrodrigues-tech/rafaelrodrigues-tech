@@ -13,13 +13,6 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-## 📊 GitHub Análise
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrodrigues-tech&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrodrigues-tech&layout=compact&theme=dark)
-![Rafael Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaelrodrigues-tech&theme=github-compact)
-
-
-
 ## 🛠 Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)

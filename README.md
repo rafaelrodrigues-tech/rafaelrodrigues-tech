@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=FFFFFFD7&width=820&lines=👨‍💻+Olá%2C+eu+sou+o+Rafael!;👋+Bem-vindo+ao+meu+perfil+no+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=800&color=FFFFFFD7&width=820&lines=👨‍💻+Olá%2C+eu+sou+o+Rafael!;👋+Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ## ⚡ Sobre mim 
 

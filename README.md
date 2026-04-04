@@ -6,24 +6,11 @@
 - 💻 Focado em **Back-end com C# e .NET**
 - 🌎 Aprendendo e evoluindo no **inglês** 
 
-## ⚔ Tecnologias
+## ⚔ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-
-## 🛠 Ferramentas
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 🔗 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelrodrigues-tech/)
-
-## 🌐 Meu perfil no Beecrowd (URI)
-
-Quer acompanhar meus desafios, evolução ou até me adicionar por lá?  
-[Visite meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1195812)
-

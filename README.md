@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 💻 Focado em **Back-end com C# e .NET**
-- 🌎 Aprendendo e evoluindo no **inglês** 
 
 ## ⚔ Tecnologias e Ferramentas
 

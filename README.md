@@ -2,14 +2,16 @@
 
 ## ⚡ Sobre mim 
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💻 Focado em **Back-end com C# e .NET**
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Focado em Back-end com C# e .NET
+- 📚 Estudando APIs, banco de dados e desenvolvimento web
+- 🚀 Em evolução constante através de projetos e estudos práticos
 
-## ⚔ Tecnologias e Ferramentas
+## ⚔  Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+

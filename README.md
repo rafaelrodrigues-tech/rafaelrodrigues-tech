@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💻 Focado em Back-end com C# e .NET
-- 📚 Estudando APIs, banco de dados e desenvolvimento web
+- 📚 Estudando ASP.NET Core, Entity Framework, APIs e banco de dados
 - 🚀 Em evolução constante através de projetos e estudos práticos
 
 ## ⚔  Stack

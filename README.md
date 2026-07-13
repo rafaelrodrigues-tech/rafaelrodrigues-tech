@@ -6,7 +6,6 @@
 - 👨‍💻 Praticando Lógica constantemente no beecrowd
 - 💻 Focado em Back-end com C# e .NET
 - 📚 Estudando ASP.NET Core, Entity Framework, APIs e banco de dados
-- 🚀 Em evolução constante através de projetos e estudos práticos
 
 ## ⚔  Stack
 

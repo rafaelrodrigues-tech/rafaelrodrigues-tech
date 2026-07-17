@@ -45,11 +45,17 @@
 
 ## 💻 Plataformas
 <p align="center">
-  
 <a href="https://judge.beecrowd.com/pt/profile/1195812">
-  <img src="https://img.shields.io/badge/Beecrowd-Perfil-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Beecrowd-Exercícios-00599C?style=for-the-badge" alt="Beecrowd"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/rrodris">
+  <img src="https://img.shields.io/badge/HackerRank-Desafios-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 </p>
+
+---
+
 ## Atualmente
 
 -  Estudando desenvolvimento de APIs com ASP.NET Core Web API.

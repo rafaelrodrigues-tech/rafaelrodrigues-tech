@@ -32,6 +32,7 @@
 </p>
 
 ---
+
 ## 📫 Contato
 
 <p align="center">
@@ -40,6 +41,15 @@
   </a>
 </p>
 
+---
+
+## 💻 Plataformas
+<p align="center">
+  
+<a href="https://judge.beecrowd.com/pt/profile/1195812">
+  <img src="https://img.shields.io/badge/Beecrowd-Perfil-00599C?style=for-the-badge"/>
+</a>
+</p>
 ## Atualmente
 
 -  Estudando desenvolvimento de APIs com ASP.NET Core Web API.

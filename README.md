@@ -37,4 +37,3 @@
 
 -  Estudando desenvolvimento de APIs com ASP.NET Core Web API.
 -  Aprimorando lógica de programação, C# e PostgreSQL.
--  Fortalecendo lógica de programação e fundamentos de C#.

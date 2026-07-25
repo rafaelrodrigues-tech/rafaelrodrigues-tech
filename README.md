@@ -7,11 +7,10 @@
 
 ---
 
-### 🚀 Sobre mim
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-* 💻 Focado na criação de APIs REST com **ASP.NET Core** e **PostgreSQL**.
-* 📚 Estudando **Clean Architecture**, **DDD** e boas práticas de código.
-* 🧩 Praticando lógica e resolução de problemas no **HackerRank** e **Beecrowd**.
+### 📌 Sobre mim
+* Estudante de Análise e Desenvolvimento de Sistemas.
+* Focado na criação de APIs com **ASP.NET Core** e **PostgreSQL**.
+* Praticando lógica e resolução de problemas no **HackerRank** e **Beecrowd**.
 
 ---
 

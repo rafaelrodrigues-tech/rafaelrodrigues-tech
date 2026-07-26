@@ -38,11 +38,6 @@
 <a href="https://www.linkedin.com/in/rafaelrodrigues-tech/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://www.hackerrank.com/profile/rrodris">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
 <a href="https://judge.beecrowd.com/pt/profile/1195812">
   <img src="https://img.shields.io/badge/Beecrowd-00599C?style=for-the-badge"/>
 </a>

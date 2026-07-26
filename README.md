@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Desenvolvedor Back-end (.NET / C#)</strong><br>
-  Construindo APIs e evoluindo continuamente em boas práticas de desenvolvimento.
+  Evoluindo continuamente em boas práticas de desenvolvimento.
 </p>
 
 ---

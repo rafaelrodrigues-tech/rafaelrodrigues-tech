@@ -11,9 +11,9 @@
 
 -  Estudante de Análise e Desenvolvimento de Sistemas.
 -  Focado no desenvolvimento Back-end com .NET.
--  Estudando ASP.NET Core, PostgreSQL, DDD e Arquitetura Limpa.
+-  Estudando ASP.NET Core, PostgreSQL e API.
 -  Praticando lógica e resolução de problemas no HackerRank e Beecrowd.
--  Buscando a primeira oportunidade como Desenvolvedor Back-end.
+-  Buscando a primeira oportunidade como Desenvolvedor.
 
 ---
 

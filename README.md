@@ -6,7 +6,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas e venho estudando back-end
 
 ## Tecnologias
 
-C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, Docker, Git
+C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, Git
 
 ## Contato
 

@@ -1,8 +1,8 @@
 # Rafael Rodrigues
 
-Desenvolvedor Back-end .NET / C#
+**Desenvolvedor Back-end (.NET / C#)**
 
-Estou cursando Análise e Desenvolvimento de Sistemas e venho estudando back-end com C# e .NET. Uso ASP.NET Core, Entity Framework Core e PostgreSQL nos meus projetos. Também pratico exercícios de lógica no Beecrowd pra fixar algoritmos e estrutura de dados.
+Estudante de Análise e Desenvolvimento de Sistemas, focado na construção de APIs RESTful e na resolução de problemas de lógica e estruturas de dados.
 
 ## Tecnologias
 

@@ -11,5 +11,5 @@ C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, Git
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/rafaelrodrigues-tech/
-- Email: rrodrigues15@gmail.com
+- Email: rrobrigues15@gmail.com
 - Beecrowd: https://judge.beecrowd.com/pt/profile/1195812
